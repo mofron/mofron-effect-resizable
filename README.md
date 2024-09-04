@@ -1,0 +1,1 @@
+# mofron-effect-resizable
